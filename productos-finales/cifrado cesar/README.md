@@ -21,4 +21,4 @@ Crea una web que pida, por medio de un prompt(), una frase al usuario y devuelva
 - Llamar a la función ceaserCipher con el parámetro phrase para que ingrese los datos proporcionados por el usuario
 - Ingresar los datos en pantalla por medio de document.write
 
-![alt text](https://i.imgur.com/v4jnqQy.jpg)
+![alt text](https://i.imgur.com/AMHJMpS.jpg)
